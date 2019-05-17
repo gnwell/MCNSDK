@@ -1,4 +1,5 @@
 com.mgmcn.mcnplayerlib
+com.mgmcn.mcnplayerlib.listener
 com.mgmcn.mcnplayerlib.player.base
 com.mgmcn.mcnplayerlib.widget.base
 com.mgmcn.sdkmanager
